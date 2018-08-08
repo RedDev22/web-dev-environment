@@ -49,6 +49,15 @@
 
 8. Now you can visit **template-website.test** in any browser. The root of this project is `/template-website/app`
 
+# Tidying things up
+While the website is now running, there are somethings left that we need to do for security reasons. 
+
+1. Open up the wp-config file in your app folder.
+2. Scroll down until after the database section. You should see many lines of code that begin with **define**
+3. Open up this link (https://api.wordpress.org/secret-key/1.1/salt/) and highlight the entire page and copy it
+4. Highlight the whole block from **AUTH_KEY** to **NONCE_SALT** and paste in your clipboard
+5. Ideally this would be on a private repository rather than a public one, but I don't have it setup with bitbucket quite yet.
+
 ## Database Info
 An initial database is automatically created for you. You do not need to enter this information when going through the wordpress setup. 
 
