@@ -1,18 +1,18 @@
-## Here are instructions on how to easily setup a new website dev environment on a brand new computer
+## Here are instructions on how to easily setup a new website dev environment on a brand new computer ##
 
-# This will be different depending on whether you are:
+# This will be different depending on whether you are: #
  1. Starting on a brand new website on a computer that has never developed with this method before
  2. Creating a new website on a computer that already has the development environment on it
 
-# The features of this dev environment setup are:
+# The features of this dev environment setup are: #
  1. Wordpress
  2. Workflow Automation
  3. Private Server with Vagrant & Virtual Box
  4. Github Integration
  
 
-## Setting up a brand new computer (option 1)
-# Install Programs Links
+## Setting up a brand new computer (option 1) ##
+# Install Programs Links #
  1. Virtual Box: (https://www.virtualbox.org/)
  2. Vagrant: (https://www.vagrantup.com/)
  3. Git Bash: (https://git-scm.com/downloads) - only use if Windows
