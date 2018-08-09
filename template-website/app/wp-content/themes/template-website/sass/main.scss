@@ -1,0 +1,24 @@
+/*
+Theme Name: Template Theme
+Author: Your Name Here
+Description: An extremely barebones theme to build off of
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: template-theme
+
+*/
+
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+
+@import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
+

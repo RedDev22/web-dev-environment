@@ -1,0 +1,30 @@
+{
+  "name": "template-website",
+  "version": "1.0.0",
+  "description": "website-template for github",
+  "main": "index.js",
+  "scripts": {
+    "gulpwatch": "gulp watch",
+    "gulpstyles": "gulp styles",
+    "gulpscripts": "gulp scripts"
+  },
+  "author": "Ryan",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "7.0.0-beta.46",
+    "@babel/preset-env": "7.0.0-beta.46",
+    "autoprefixer": "8.4.1",
+    "babel-loader": "^8.0.0-beta",
+    "browser-sync": "^2.24.6",
+    "gulp": "3.9.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "node-sass": "^4.9.2",
+    "webpack": "4.8.2"
+  },
+  "dependencies": {
+    "jquery": "3.3.1",
+    "normalize-scss": "^7.0.1",
+    "slick-carousel": "1.8.1"
+  }
+}

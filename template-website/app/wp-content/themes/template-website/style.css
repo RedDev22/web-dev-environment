@@ -1,0 +1,13 @@
+/*
+Theme Name: Template Theme
+Author: Your Name Here
+Description: An extremely barebones theme to build off of
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: template-theme
+
+*/
+.testing-2 {
+  color: red;
+  height: 60%; }
